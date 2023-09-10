@@ -1,0 +1,17 @@
+---- YELLOW NIGHTLY BUILDS ----
+
+Nothing here is consistent. Take note of that.
+Because I no longer have access to GitHub Actions, builds appear here when I decide to add one.
+
+Formatting: [PLATFORM]-YYYY-MM-DD-[INDEX]
+Nightly builds may also use this formatting for the in-game version.
+
+PLATFORM can be ANDROID, PC or ANY.
+INDEX goes up when multiple builds appear within one day.
+
+Integration to the mod might be considered.
+
+- In-game downloading []
+- Automatic platform detection []
+
+---- THAT IS ALL ----
